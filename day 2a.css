@@ -1,0 +1,60 @@
+        .box {
+            width: 200px;
+            height: 200px;
+            padding: 30px;
+            background-color: antiquewhite;
+            color: black;
+            text-align: center;
+            margin: auto;
+        }
+        
+        .box1 {
+            width: 200px;
+            height: 200px;
+            padding: 30px;
+            background-color: blueviolet;
+            color: black;
+            text-align: end;
+            margin: left;
+        }
+        
+        li {
+            list-style: none;
+            text-decoration: none;
+            gap: 20px;
+        }
+        
+        ul {
+            display: flex;
+        }
+        
+        h1 {
+            text-shadow: 6px 5px 4px purple;
+        }
+        
+        h1:hover {
+            text-shadow: 6px 5px 4px red;
+        }
+        
+        h2 {
+            text-shadow: 6px 5px 4px yellow;
+        }
+        
+        h2:hover {
+            text-shadow: 6px 5px 4px yellowgreen;
+        }
+        
+        button {
+            color: rgb(236, 215, 215);
+            background-color: blue;
+            padding: 30px;
+            border-radius: 5px;
+        }
+        
+        button:hover {
+            color: rgb(236, 175, 175);
+            background-color: rgb(81, 211, 38);
+            padding: 30px;
+            border-radius: 5px;
+            margin-left: 200px;
+        }
